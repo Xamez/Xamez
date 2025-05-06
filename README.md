@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering and enjo
 ### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373507/cloudfoundry.svg" alt="Cloud Foundry" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI" width="40" height="40"/>
 </p>
