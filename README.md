@@ -1,10 +1,9 @@
-# 👋 Hi there, I'm a student at École des Mines d'Alès!
+# 👋 Hi there
 
 Welcome to my GitHub profile! I'm passionate about software engineering and enjoy working on a variety of technologies — from backend development to modern frontend frameworks.
 
 ## 📚 About me
 
-- 🎓 I'm currently an apprentice engineer at École des Mines d'Alès, France — splitting my time between academic courses and working in a company.
 - 🧠 I'm deeply curious about the latest trends in tech and regularly watch talks and conferences about programming languages and software advancements.
 - 🌱 I’m always learning and improving my skills in full-stack development.
 
